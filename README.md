@@ -1,4 +1,4 @@
-<h1 align="center"> Basic tutorial </h1>
+<h1 align="center">• Basic code •</h1>
 <p align="center">
 <img src="https://media.tenor.com/tHrhZhnbhVEAAAAC/nancy-momoland.gif" alt="mommy"/>
 </p>
