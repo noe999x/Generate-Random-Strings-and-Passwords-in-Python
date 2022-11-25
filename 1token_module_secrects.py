@@ -19,7 +19,7 @@ token=secrets.token_hex(12) #module import from secrets
 username=input(' • Username : ') #for input user username
 noe('Welcome',username);time.sleep(1) #welcome to user login
 noe('\nYour token :',token) #output from uuid
-password=input(' • Token : ') #for input user apikey
+password=input(' • Token : ') #for input user token
 anim('Please wait...') #from oading to your destiny
 if password==str(token):
    time.sleep(2)
@@ -28,5 +28,5 @@ if password==str(token):
 else:
      password!=str(token)
      time.sleep(2)
-     noe('\n[red]Login failed, check again your apikey[reset]')
-     time.sleep(2); #failed or wrong apikey
+     noe('\n[red]Login failed, check again your token[reset]')
+     time.sleep(2); #failed or wrong token
