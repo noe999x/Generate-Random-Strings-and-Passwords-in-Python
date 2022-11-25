@@ -16,5 +16,5 @@ punctuation
 whitespace
 > Includes the characters space, tab, linefeed, return, formfeed, and vertical tab [^ \t\n\x0b\r\f]
 
-printtable
+printable
 > characters that are considered printable. This is a combination of constants digits, letters, punctuation, and whitespace.
